@@ -49,9 +49,10 @@ Spark ETL titanic Project <br/>
 
 
 
-## Contact
+## Author
 
-######  **Abdelrhman Yassein  :**  [LinkedIn](https://www.linkedin.com/in/Abdelrhman-Yassein/) - [GitHub](https://github.com/Abdelrhman-Yassein?tab=repositories)
+######  **Ahmed Gamal Bakr  :
+
 
 
 
